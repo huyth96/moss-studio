@@ -1,87 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>https://huyth96.github.io/moss-studio/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/"/>
+<loc>https://mossquad.com/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/vi/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/"/>
+<loc>https://mossquad.com/vi/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/moss-planet/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/moss-planet/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/hanh-tinh-reu/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/moss-planet/"/>
+<loc>https://mossquad.com/moss-planet/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/moss-planet/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/hanh-tinh-reu/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/moss-planet/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/vi/hanh-tinh-reu/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/moss-planet/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/hanh-tinh-reu/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/moss-planet/"/>
+<loc>https://mossquad.com/vi/hanh-tinh-reu/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/moss-planet/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/hanh-tinh-reu/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/moss-planet/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/magnet-out/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/magnet-out/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/magnet-out/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/magnet-out/"/>
+<loc>https://mossquad.com/magnet-out/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/magnet-out/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/magnet-out/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/magnet-out/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/vi/magnet-out/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/magnet-out/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/magnet-out/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/magnet-out/"/>
+<loc>https://mossquad.com/vi/magnet-out/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/magnet-out/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/magnet-out/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/magnet-out/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/sacrifice-board/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/sacrifice-board/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/sacrifice-board/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/sacrifice-board/"/>
+<loc>https://mossquad.com/sacrifice-board/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/sacrifice-board/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/sacrifice-board/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/sacrifice-board/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/vi/sacrifice-board/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/sacrifice-board/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/sacrifice-board/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/sacrifice-board/"/>
+<loc>https://mossquad.com/vi/sacrifice-board/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/sacrifice-board/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/sacrifice-board/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/sacrifice-board/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/ragdoll-trap-arena/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/ragdoll-trap-arena/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/ragdoll-trap-arena/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/ragdoll-trap-arena/"/>
+<loc>https://mossquad.com/ragdoll-trap-arena/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/ragdoll-trap-arena/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/ragdoll-trap-arena/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/ragdoll-trap-arena/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/vi/ragdoll-trap-arena/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/ragdoll-trap-arena/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/ragdoll-trap-arena/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/ragdoll-trap-arena/"/>
+<loc>https://mossquad.com/vi/ragdoll-trap-arena/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/ragdoll-trap-arena/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/ragdoll-trap-arena/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/ragdoll-trap-arena/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/press/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/press/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/press/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/press/"/>
+<loc>https://mossquad.com/about/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/about/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/gioi-thieu/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/about/"/>
 </url>
 <url>
-<loc>https://huyth96.github.io/moss-studio/vi/press/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/press/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/press/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/press/"/>
-</url>
-<url>
-<loc>https://huyth96.github.io/moss-studio/about/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/about/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/gioi-thieu/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/about/"/>
-</url>
-<url>
-<loc>https://huyth96.github.io/moss-studio/vi/gioi-thieu/</loc>
-<xhtml:link rel="alternate" hreflang="en" href="https://huyth96.github.io/moss-studio/about/"/>
-<xhtml:link rel="alternate" hreflang="vi" href="https://huyth96.github.io/moss-studio/vi/gioi-thieu/"/>
-<xhtml:link rel="alternate" hreflang="x-default" href="https://huyth96.github.io/moss-studio/about/"/>
+<loc>https://mossquad.com/vi/gioi-thieu/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mossquad.com/about/"/>
+<xhtml:link rel="alternate" hreflang="vi" href="https://mossquad.com/vi/gioi-thieu/"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://mossquad.com/about/"/>
 </url>
 </urlset>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://huyth96.github.io/moss-studio/sitemap.xml
+Sitemap: https://mossquad.com/sitemap.xml
